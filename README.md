@@ -8,4 +8,8 @@ Implemented 2 models.
 KNN recommends n universities whereas CNN recommends only 1 university.
 
 Sample Output of KNN:
-![](screenshots/1.png)
+
+
+![](Screenshots/1.png)
+
+![](Screenshots/2.png)

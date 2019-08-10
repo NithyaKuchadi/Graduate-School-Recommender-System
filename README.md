@@ -5,7 +5,9 @@ Data is scraped from edulix.com. The required data is extracted from the HTML by
 
 Data Pre-processing Steps:
 1. GRE Quant and Verbal scores are cleansed since they contained the scores of both old and new versions of the examination. The old scores are converted to new scores.
+
 2. All the GPA scores were uniformly scaled to 4 point scale. 
+
 3.The empty fields are replaced with the average value.  
 
 

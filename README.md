@@ -13,3 +13,7 @@ Sample Output of KNN:
 ![](Screenshots/1.png)
 
 ![](Screenshots/2.png)
+
+Sample Output of CNN for the scores [159.5744681, 170.212766, 5.0, 3.83] is:
+
+![](Screenshots/3_cnn.png)
